@@ -1,0 +1,12 @@
+{
+  "name": "roots",
+  "displayName": "roots",
+  "expo": {
+    "name": "roots",
+    "slug": "roots",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
