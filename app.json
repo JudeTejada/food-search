@@ -1,9 +1,9 @@
 {
-  "name": "roots",
-  "displayName": "roots",
+  "name": "food",
+  "displayName": "food",
   "expo": {
-    "name": "roots",
-    "slug": "roots",
+    "name": "food",
+    "slug": "food",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
